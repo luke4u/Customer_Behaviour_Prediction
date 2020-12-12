@@ -1,2 +1,3 @@
-# ANN-Binary-classification
-This is to build a neural network on customers and employee datasets to predict leave or remain.
+# Leave or Remain Prediction
+
+This is to build artificial neural networks on customers and employees datasets to predict leave or remain.
