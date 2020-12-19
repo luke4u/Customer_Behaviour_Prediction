@@ -7,4 +7,4 @@ This is to create a repos for customer behaviour prediction including:
 
 Models overivew: Logistic regression, Random forest, Support vector machine, and Artificial neural netoworks.
 
-******Production and deployment level codes are available. Stay tuned and ENJORY. 💕💕******
+******Production and deployment level codes are available for 🙌CUSTOMER CHURN PRODUCTION🙌. Stay tuned and ENJORY. 💕💕******
